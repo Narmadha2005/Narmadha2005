@@ -1,5 +1,4 @@
-<br><br><br><br> ![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20page-%F0%9F%91%8B-ff69b4?style=for-the-badge&logo=github&logoColor=white)
-<br><br><br>
+![Welcome GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 # 💫 About Me:
 🎓 Computer Science student passionate about technology and problem-solving<br>💻 Interested in Data Science, Machine Learning, AI<br>📊 Love working with Python, Streamlit, Power BI, and NLP projects<br>🌱 Currently exploring AI/ML, Cloud Computing, and Open-Source Contributions
