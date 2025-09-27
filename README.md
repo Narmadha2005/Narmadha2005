@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 BIO  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computational+Data+Science+@+Case+Western;Passionate+about+finding+hidden+patterns;Exploring+AI+%26+ML;Lover+of+Music+%7C+Travel+%7C+Dogs+%7C+Peace&center=true&width=600&height=45&color=F75C7E&vCenter=true&size=20)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?
 
 - 🔭 **Area of Interest:** ![Data Science](https://img.shields.io/badge/-Data%20Science-blue) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange) ![AI](https://img.shields.io/badge/-AI-red)  
 - 🎯 Passionate about finding **hidden patterns, rules, and knowledge** from datasets  
