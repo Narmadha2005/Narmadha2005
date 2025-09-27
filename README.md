@@ -1,4 +1,4 @@
-![Welcome GIF](https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif)
+
 
 # 💫 About Me:
 🎓 Computer Science student passionate about technology and problem-solving<br>💻 Interested in Data Science, Machine Learning, AI<br>📊 Love working with Python, Streamlit, Power BI, and NLP projects<br>🌱 Currently exploring AI/ML, Cloud Computing, and Open-Source Contributions
@@ -34,4 +34,4 @@
   </p>
 </div>
 
-
+![GIF](https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif)
