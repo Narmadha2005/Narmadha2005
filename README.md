@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmadha-baskar-b14a7b281/) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:narmadhabas76@gmail.com)  
+
 
 ## 🧑‍💻 BIO  
 
@@ -16,7 +16,7 @@
 - 🤝 Open to collaborate on **Open Source Projects in AI/ML & Data Science**  
 - 💬 Ping me about ![Python](https://img.shields.io/badge/-Python-yellow) ![NLP](https://img.shields.io/badge/-NLP-purple) ![ML Models](https://img.shields.io/badge/-ML%20Models-pink) ![Data Visualization](https://img.shields.io/badge/-Data%20Viz-brightgreen)  
 - ✨ **Fun Facts:** 📅 Born: *28 Dec 2005* | ❤️ Love & Peace | 💃 Dancing | 🐶 Feeding Dogs | 🎵 Music Lover | 🌍 Traveling 🏝️🗻🌄🗿  
-- 📫 **Reach Me:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Narmadha2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmadha-baskar-b14a7b281/) [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:narmadhabas76@gmail.com)  
+- 📫 **Reach Me:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Narmadha2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmadha-baskar-b14a7b281/) [![Gmail] 
   
 
 # 💻 Tech Stack:
