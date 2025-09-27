@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 BIO  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?
+
 
 - 🔭 **Area of Interest:** ![Data Science](https://img.shields.io/badge/-Data%20Science-blue) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange) ![AI](https://img.shields.io/badge/-AI-red)  
 - 🎯 Passionate about finding **hidden patterns, rules, and knowledge** from datasets  
