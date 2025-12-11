@@ -34,4 +34,3 @@
   </p>
 </div>
 
-![GIF](https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif)
