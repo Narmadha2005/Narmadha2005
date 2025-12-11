@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmadha-baskar-b14a7b281/) 
 
 
-## 🧑‍💻 BIO  
+## 👧🏻💻 BIO  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate+about+finding+hidden+patterns;Exploring+AI+%26+ML;Lover+of+Music+%7C+Travel+%7C+Dogs+%7C+Peace&center=true&width=600&height=45&color=F75C7E&vCenter=true&size=20)
 
